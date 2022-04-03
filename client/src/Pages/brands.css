@@ -1,0 +1,17 @@
+.brands-container{
+display: grid;
+grid-template-columns: repeat(5,300px);
+grid-gap: 10px;
+height: calc(100vh - 150px);
+width: 100vw;
+justify-content: center;
+align-items: center;
+}
+.brands-container li{
+    list-style-type: none;
+    text-decoration: none;
+}
+.inner-brands{
+    height: 300px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}

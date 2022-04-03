@@ -1,0 +1,26 @@
+
+.swiper-button-next{
+position: absolute;
+top: 50%;
+right:32px;
+z-index: 10;
+cursor: pointer;
+color: black;
+}
+.swiper-button-prev{
+    position: absolute;
+    top: 50%;
+    left:32px;
+    z-index: 10;
+    cursor: pointer;
+    color: black;
+    }
+
+.turn-on-off{
+    position: absolute;
+    left:50px;
+    top:50px;
+}
+.home-slider{
+  
+}

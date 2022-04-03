@@ -1,0 +1,19 @@
+.empty-container{
+width:500px;
+margin: 50px auto;
+text-align: center;
+text-transform: uppercase;
+}
+.empty-wishlist{
+    font-size: 20px;
+
+}
+.empty-info{
+    font-size: 17px;
+    color: gray;
+}
+.empty-container button{
+    margin: 10px;
+    border-radius: 0;
+   padding:0 10px;
+}

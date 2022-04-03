@@ -1,0 +1,63 @@
+*{
+  font-family: 'Poppins', sans-serif;
+    }
+    .item-container{
+      width: 210px;
+      padding:50px;
+    }
+    .item-container img{
+      width:210px;
+    }
+    .item-container:hover{
+      box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    }
+    .details{
+    padding: 0 10px;
+    
+    }
+    .product-brand{
+      margin:10px 0;
+      font-size: 16px;
+      color:#282c3f;
+    }
+    .add-to-cart{
+     text-align: center;
+     padding: 5px;
+    }
+    .cart-button{
+      font-weight: 700;
+      background: none;
+      text-transform: uppercase;
+      color:#00867a;
+      border: #00867a solid 1px;
+      height: 30px;
+      width: 100%;
+    }
+    .cart-button:hover{
+      background: #00867a;
+      color: white;
+    }
+    .product-name{
+      margin:0 0 5px 0 ;
+      font-size: 14px;
+      color:#535766
+    }
+    .product-price{
+     padding-bottom: 5px;
+    }
+    .discounted-price{
+      font-size: 14px;
+      color: #282c3f;
+      font-weight: 500;
+    }
+    .striked-price{
+      font-size: 12px;
+      text-decoration: line-through;
+      color:#7e818c;
+      margin-left: 5px;
+    }
+    .discount-percent{
+      font-size: 12px;
+      color:#00867a;
+      margin-left: 5px;
+    }
